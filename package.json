@@ -1,0 +1,27 @@
+{
+  "name": "bogiejsdocs",
+  "version": "0.0.1",
+  "description": "Documentation for the BogieJS library.",
+  "main": "index.js",
+  "dependencies": {
+    "bogie": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sleepy-Fish/BogieJSDocs.git"
+  },
+  "keywords": [
+    "Colission",
+    "Detection"
+  ],
+  "author": "Caleb Rogers, Riley Harrington",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Sleepy-Fish/BogieJSDocs/issues"
+  },
+  "homepage": "https://github.com/Sleepy-Fish/BogieJSDocs#readme"
+}
